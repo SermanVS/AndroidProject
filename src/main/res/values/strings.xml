@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeManager</string>
+    <string name="title_activity_new_task">Add New Task</string>
+    <string name="hint1">Enter your task</string>
+    <string name="hint2">Task 1</string>
+    <string name="hint3">Task 2</string>
+    <string name="hint4">Task 3</string>
+    <string name="hint5">Task 4</string>
+</resources>
